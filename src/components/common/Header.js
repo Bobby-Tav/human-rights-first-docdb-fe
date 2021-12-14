@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import Search from 'antd/es/input/Search';
 import { Avatar, Layout, Button } from 'antd';
 import { UserOutlined } from '@ant-design/icons';
